@@ -37,7 +37,7 @@ You install one tiny framework, then add per-task triggers as you need them.
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/mac-tap-trigger
+git clone https://github.com/liyang921/mac-tap-trigger
 cd mac-tap-trigger
 ./install.sh teamviewer 'open -a TeamViewer'
 ```
